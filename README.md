@@ -1,6 +1,6 @@
 # Housing_Price___Project
+![HousepricebasedonLocation](https://user-images.githubusercontent.com/5207341/161307282-acf17d04-ec93-44e8-aedf-84916804579b.png)
 
-<img width="702" alt="Screen Shot 2022-03-22 at 10 23 26 AM" src="https://user-images.githubusercontent.com/5207341/159532342-654e665d-556e-4ba2-9c20-0427c877da6a.png">
 
 ##  Housing Price Project
 
