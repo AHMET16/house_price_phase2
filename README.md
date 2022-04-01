@@ -1,5 +1,5 @@
 # Housing_Price___Project
-![The top ten affordable zipcode](https://user-images.githubusercontent.com/5207341/159533635-56031f24-59d0-4bd6-b587-6c73f9ceacec.png)
+<img width="702" alt="Screen Shot 2022-03-22 at 10 23 26 AM" src="https://user-images.githubusercontent.com/5207341/159532342-654e665d-556e-4ba2-9c20-0427c877da6a.png">
 
 ##  Housing Price Project
 
@@ -63,6 +63,7 @@ The following questions were asked to analyze the data:
 
 1- Is there any relationship between the house’s location and its sale price?
 ![HousepricebasedonLocation](https://user-images.githubusercontent.com/5207341/159533392-9b3b5092-d132-42ad-b24a-e7284e27ef18.png)
+
 
 
 2- What are the top ten zip codes that have the highest selling houses in King County?
