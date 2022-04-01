@@ -1,6 +1,5 @@
 # Housing_Price___Project
-![HousepricebasedonLocation](https://user-images.githubusercontent.com/5207341/161307282-acf17d04-ec93-44e8-aedf-84916804579b.png)
-
+![The top ten affordable zipcode](https://user-images.githubusercontent.com/5207341/159533635-56031f24-59d0-4bd6-b587-6c73f9ceacec.png)
 
 ##  Housing Price Project
 
