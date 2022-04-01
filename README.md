@@ -65,7 +65,6 @@ The following questions were asked to analyze the data:
 ![HousepricebasedonLocation](https://user-images.githubusercontent.com/5207341/159533392-9b3b5092-d132-42ad-b24a-e7284e27ef18.png)
 
 
-
 2- What are the top ten zip codes that have the highest selling houses in King County?
 
 ![The highest price zipcode](https://user-images.githubusercontent.com/5207341/159533550-810413ea-3ba0-4e07-84ac-ba4db27dfcc1.png)
