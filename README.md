@@ -78,19 +78,20 @@ The following questions were asked to analyze the data:
 
 4- Which features are important to predict the price of the house?
 
-- Longitude will increase the predicated price by $233
-- Square footage of the interior housing living 15 will increase the predicated price by $171
-- Latitude will increase the predicated price by $56.
-- Square footage of the basement will increase the predicated price by $22
-- Square footage of the interior living space will increase the predicated price by $20
-
+- Grade will increase the predicated price %180
+- latitude will increase the predicated price %147
+- Waterfront will increase the predicated price %77
+- floors will increase the predicated price %6
+- Bathrooms will increase the predicated price %2
+- basement will increase the predicated price %3
 ### Conclusion
-- 15 features were included in the final model to get the best prediction, The following findings are from the features with the highest coefficients:
-- The price of the house is highly affected by its location.
-- Houses with larger living space, bigger basement, and more bathrooms have higher predicted price.
-- The renovated houses selling price is higher than non-renovated one
-- The houses with waterfront have higher selling prices than the ones without one.
+ - 15 features were included in the final model to get the best prediction The following findings are from the   features with the highest coefficients:
+- The price of the houses is highly affected by its location.
+- Houses with larger living space, bigger basement, and more bathrooms have
+higher predicted price.
+-The houses with waterfront have higher selling prices than the ones without one.
 - Each increase of the grade will increase the price, with grade 11 in the top
+ 
 
 ### Limitation
 
